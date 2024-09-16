@@ -10,6 +10,7 @@ How To Work?
     - Thường xuyên pull từ <your_branch> về tránh conflit khi push.
     - Không pull từ main branch về.
     - Mỗi branch có mô tả chi tiết việc làm, không checkout hay pull lung tung tránh bị xung đột.
+    - Mỗi branch đều có thông tin chi tiết về phần mình phải làm, mọi người cố gắng hoàn thành sớm để làm PowerPoint.
 
 
 Tài liệu:
