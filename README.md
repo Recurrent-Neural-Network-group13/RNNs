@@ -7,3 +7,9 @@ How to work?
 - Lưu ý: Pull về thường xuyên tránh bị xung đột khi Push, không checkout hay pull lung tung.
 Finish:
 - Sau khi hoàn thành, một người tạo pull request yêu cầu merge vào main branch.
+Target:
+- Làm rõ định nghĩa, phân loại, mô hình RNN(Definitation, Supervised -- Semi-Supervised -- Unsupervised, Cluser -- Classification).
+- Hiểu cấu trúc và cách học của RNN.
+- Sự khác nhau giữa RNN và CNN.
+- Nắm rõ lý thuyết toán học, thuật toán áp dụng vào RNN.
+- Ứng dụng trong đời sống.
