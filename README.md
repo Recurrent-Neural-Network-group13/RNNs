@@ -1,7 +1,12 @@
 How to work?
-- Tìm hiểu về một số vấn đề của RNN models.
-- Một số mô hình, thuật toán có thể khắc phục.
-- Làm bài bằng Tiếng Anh, có hình ảnh minh hoạ cho các models.
-- một số models mở rộng, định nghĩa, hình ảnh minh hoạ.
-- Sau khi xong tạo pull request merge vào main.
-- Chú ý: không checkout, pull lung tung tránh bị conflit khi push hoặc merge.
+-
+- Bài làm bằng Tiếng Anh.
+- Có hình minh hoạ.
+- Thoả mãn toàn bộ yêu cầu.
+- Sau khi hoàn thành tạo Pull Request để merge vào main.
+	* Chú ý: Không checkout qua các branch hay pull lung tung tránh bị xung đột khi push hoặc merge.
+
+Target:
+- 
+- Nắm bắt được hạn chế, vấn đề của simple RNN về thuật toán, mô hình, etc...
+- Nắm được ý tưởng, cách cải tiến của một số mô hình thay thế.
