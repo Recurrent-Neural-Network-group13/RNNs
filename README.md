@@ -1,5 +1,5 @@
-How To Work?
--
+## How To Work?
+
 - clone Repository.
 - git branch -a. (hiển thị toàn bộ branch)
 - checkout <your_branch>. (Chọn branch được phân vào và làm việc trên nó)
@@ -7,23 +7,23 @@ How To Work?
 - git commit -m "..."
 - git push orgin <your_branch>.
 - Finish -> Create Pull Request. (Sau khi hoàn thành tạo Pull Request để merge vào main)
-  * Lưu ý:
+  - Lưu ý:
     - Thường xuyên pull từ <your_branch> về tránh conflit khi push.
     - Không pull từ main branch về.
     - Mỗi branch đều được Set Rules, phần của người nào được phân vào branch đó, tránh việc mọi người push nhầm nên cẩn thận.
     - Mỗi branch có mô tả chi tiết việc làm, không checkout hay pull lung tung tránh bị xung đột.
     - Mỗi branch đều có thông tin chi tiết về phần mình phải làm, mọi người cố gắng hoàn thành sớm để làm PowerPoint.
 
-Target:
--
+## Target:
+
 - Mỗi người hoàn thành và hiểu rõ phần của mình.
 - Nắm được sơ lược toàn bộ về RNN.
 - Chuẩn bị các câu hỏi có thể có để trả lời.
 - Hoàn thành đúng deadline, giúp đỡ các thành viên khác.
 
-
 Paper:
-- 
+
+-
 - [1]: http://scholarpedia.org/article/Recurrent_neural_network .
 - [2]: https://www.fit.vut.cz/research/group/speech/public/publi/2011/mikolov_icassp2011_5528.pdf .
 - [3]: https://www.fit.vut.cz/research/group/speech/public/publi/2010/mikolov_interspeech2010_IS100722.pdf .
@@ -34,15 +34,16 @@ Paper:
 - [8]: https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-3/ .
 - [9]: https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf .
 - [10]: https://arxiv.org/pdf/1912.05911 .
- 
+
 Research Source:
-- 
+
+-
 - [1]: https://arxiv.org/ .
 - [2]: https://scholar.google.com/ .
 - [3]: https://openai.com/research/ .
 
-Datasets Research:
--
+## Datasets Research:
+
 - [1]: https://datasetsearch.research.google.com/ .
 - [2]: https://data.gov/ .
 - [3]: https://paperswithcode.com/datasets .
