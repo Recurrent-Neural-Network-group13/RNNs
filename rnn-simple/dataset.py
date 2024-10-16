@@ -1,0 +1,51 @@
+# dataset.py
+
+
+def load_data():
+    sentences = [
+        "I love this product",
+        "This is the worst experience ever",
+        "Amazing quality and great service",
+        "I hate this so much",
+        "I feel very happy and satisfied",
+        "The delivery was slow and frustrating",
+        "Totally worth the money",
+        "I am never buying this again",
+        "This exceeded my expectations",
+        "Awful, just awful",
+        "I really like the design of this item",
+        "Not what I expected, disappointed",
+        "The quality is fantastic",
+        "Customer support was very rude",
+        "I am absolutely in love with this",
+        "The color is different from the picture",
+        "Excellent craftsmanship",
+        "It broke after one use",
+        "The product is okay but not great",
+        "Very satisfied with the service",
+        "this is a bad product",
+    ]
+    labels = [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+    ]  # 1: Tích cực, 0: Tiêu cực
+    return sentences, labels

@@ -1,1 +1,17 @@
 README.md
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+myenv/
+
+# Ignore other common files
+.DS_Store
+*.egg-info/
+.env
