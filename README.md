@@ -15,3 +15,5 @@ Target:
 - Biết cách xử lí dữ liệu trước khi đưa vào trainning(Lấy dữ liệu, Chia dữ liệu, etc...).
 - Build và Train cho kết quả tốt.
 - Hiểu rõ các hàm được dùng để build và train.
+# StockPredictVinamilk
+Dự án dự đoán giá cổ phiếu tương lai của Vinamilk
