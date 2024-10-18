@@ -1,8 +1,4 @@
-from tensorflow.keras.models import load_model
+# a =aray([1, 2, 3, 4, 5, 6])
 
-# Tải mô hình đã lưu
-model = load_model('save_models.keras')
-
-# Hoặc nếu bạn dùng định dạng HDF5
-# model = load_model('model_name.h5')
-#test
+for i in range( 50 , 100):
+    print(i)
